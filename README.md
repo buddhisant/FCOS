@@ -12,4 +12,6 @@
 - cd FCOS
 - mkdir pretrained
 - cd pretrained
-- wget https://download.openmmlab.com/pretrain/third_party/resnet50_caffe-788b5fa3,pth
+- wget https://download.openmmlab.com/pretrain/third_party/resnet50_caffe-788b5fa3.pth -O resnet50_caffe.pth
+- cd ..
+- 
