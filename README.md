@@ -8,4 +8,8 @@
 **backbone网络基于resnet50**
 
 # 使用方法：
-- git clone 
+- git clone https://github.com/buddhisant/FCOS.git
+- cd FCOS
+- mkdir pretrained
+- cd pretrained
+- wget https://download.openmmlab.com/pretrain/third_party/resnet50_caffe-788b5fa3,pth
