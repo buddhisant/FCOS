@@ -20,6 +20,7 @@
 - cd data
 - mkdir coco
 - cd ../..
+
 将coco数据集放在./data/coco下面
 
 # 训练
