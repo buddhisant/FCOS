@@ -15,6 +15,7 @@
 - mkdir pretrained
 - cd pretrained
 - wget https://download.openmmlab.com/pretrain/third_party/resnet50_caffe-788b5fa3.pth -O resnet50_caffe.pth
+- wget https://download.openmmlab.com/pretrain/third_party/resnet101_caffe-3ad79236.pth -O resnet101_caffe.pth
 - cd ..
 - mkdir data
 - cd data
