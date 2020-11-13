@@ -42,4 +42,4 @@ class scheduler():
 
     def lr_decay(self):
         for groups in self.optimizer.param_groups:
-            groups["lr"] = groups["lr"] * self.lr_decay
+            groups["lr"] = groups["lr"] * self.lr_decay_factor
